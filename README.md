@@ -6,7 +6,7 @@
 ---
 
 ## 👋 About Me
-Hi, I’m **Rashad**, an Environmental Consultant and GIS Specialist passionate about turning data into insights that help communities and ecosystems thrive.  
+Hi, I’m **Rashad**, an aspiring Environmental Consultant and GIS Specialist passionate about turning data into insights that help communities and ecosystems thrive.  
 
 I combine **field experience**, **spatial analysis**, and **data visualization** to explore environmental patterns — from water resource management to urban sustainability.  
 
